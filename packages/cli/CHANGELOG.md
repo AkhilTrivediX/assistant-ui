@@ -1,5 +1,13 @@
 # assistant-ui
 
+## 0.0.107
+
+### Patch Changes
+
+- [#4993](https://github.com/assistant-ui/assistant-ui/pull/4993) [`6710b1b`](https://github.com/assistant-ui/assistant-ui/commit/6710b1b6227bd5e0dd0925845fe642ce811c8001) - fix: include the running CLI version in info output ([@Kinfe123](https://github.com/Kinfe123))
+
+- [#5013](https://github.com/assistant-ui/assistant-ui/pull/5013) [`fec32b1`](https://github.com/assistant-ui/assistant-ui/commit/fec32b116cf7ef3a162a3a62b5c6100a10c37642) - fix: sanitize tsconfig for every create scaffold and surface registry install failures ([@ephraimduncan](https://github.com/ephraimduncan))
+
 ## 0.0.106
 
 ### Patch Changes

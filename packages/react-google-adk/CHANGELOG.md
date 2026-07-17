@@ -1,5 +1,15 @@
 # @assistant-ui/react-google-adk
 
+## 0.0.18
+
+### Patch Changes
+
+- [#5011](https://github.com/assistant-ui/assistant-ui/pull/5011) [`c430f19`](https://github.com/assistant-ui/assistant-ui/commit/c430f1982f76c2f52ad0b3959c3c8738909ba432) - fix: reject incomplete direct stream options ([@Kinfe123](https://github.com/Kinfe123))
+
+- Updated dependencies [[`ca80153`](https://github.com/assistant-ui/assistant-ui/commit/ca801537e02bbab09532d0f505992778d282dddb), [`9a343db`](https://github.com/assistant-ui/assistant-ui/commit/9a343db871ceab7e574bfcec9ab22af0ddaf1841)]:
+  - @assistant-ui/core@0.2.22
+  - assistant-stream@0.3.27
+
 ## 0.0.17
 
 ### Patch Changes
